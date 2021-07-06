@@ -11,6 +11,9 @@ Hint: You can use the array function reverse
 
 const reverseString = (str) => {
     // Solution code here...
+const arr1=[str];
+const reversed=arr1.reverse ;
+return(reverseString(reversed))
 
 };
 
@@ -31,6 +34,8 @@ Output: ['a','b','c','d','e','f']
 
 const addInTheMiddle = (arr, val) => {
     // Solution code here...
+ newElements = new int[arr + val];
+ return(addInTheMiddle)
 };
 
 /* ------------------------------------------------------------------------------------------------
